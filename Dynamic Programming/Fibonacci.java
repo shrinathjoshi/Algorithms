@@ -31,32 +31,29 @@ public class Fibonacci{
 	
 	public static void main(String args[])
 	{
-			Scanner sc=new Scanner(System.in);
+		Scanner sc=new Scanner(System.in);
 
-			System.out.println("Enter the nth term of the Fibonacci series");
-			int number=sc.nextInt();
-
-
-			int resultRecursion=fibonacciRecursive(number);
-			System.out.println("Result using Recursive Approach : "+resultRecursion);
-
-			int resultMemorization=fibonacciMermorization(number);
-			System.out.println("Result using Mermorization Approach : "+resultMemorization);
+		System.out.println("Enter the nth term of the Fibonacci series");
+		int number=sc.nextInt();
 
 
+		int resultRecursion=fibonacciRecursive(number);
+		System.out.println("Result using Recursive Approach : "+resultRecursion);
+
+		int resultMemorization=fibonacciMermorization(number);
+		System.out.println("Result using Mermorization Approach : "+resultMemorization);
 	}
 
 	public static int fibonacciRecursive(int number)
 	{
 		long startTime = System.currentTimeMillis();
 		int result=fibonacciRecursiveApprach(number);
-	    long endTime = System.currentTimeMillis();
+	    	long endTime = System.currentTimeMillis();
  
-    	long durationInMillis = (endTime - startTime);  //Total execution time in milli seconds
-    	System.out.println("Execution Time using Recursive Approach : "+durationInMillis+" milli sec");
+    		long durationInMillis = (endTime - startTime);  //Total execution time in milli seconds
+    		System.out.println("Execution Time using Recursive Approach : "+durationInMillis+" milli sec");
 
-    	return result;
- 
+    		return result;
 	}
 
 	public static int fibonacciMermorization(int number)
@@ -64,13 +61,12 @@ public class Fibonacci{
 		long startTime = System.currentTimeMillis();
  		initialize();
 		int result=fibonacciMermorizationApprach(number);
-	    long endTime = System.currentTimeMillis();
+	    	long endTime = System.currentTimeMillis();
  
-    	long durationInMillis = (endTime - startTime);  //Total execution time in milli seconds
-    	System.out.println("Execution Time using Recursive Approach : "+durationInMillis+" milli sec");
+    		long durationInMillis = (endTime - startTime);  //Total execution time in milli seconds
+    		System.out.println("Execution Time using Recursive Approach : "+durationInMillis+" milli sec");
 
-    	return result;
- 
+    		return result;
 	}
 
 	public static int fibonacciRecursiveApprach(int number)
@@ -97,8 +93,8 @@ public class Fibonacci{
 	}
 	public static  void initialize() 
   	{ 
-    	for (int i = 0; i < MAX; i++) 
-        	fibbo[i] = NIL; 
+    		for (int i = 0; i < MAX; i++) 
+        		fibbo[i] = NIL; 
   	} 
 
 
