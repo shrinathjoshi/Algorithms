@@ -1,3 +1,5 @@
+package Algorithms.Sorting;
+
 import java.util.Scanner;
 
 /**
