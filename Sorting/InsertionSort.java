@@ -69,4 +69,13 @@ OUTPUT:-
 1 3 4 5 6 2 
 1 2 3 4 5 6 
 
+Time Complexity :-
+	Best Case - O(n)
+	Worst Case -O(n^2)
+	
+Space Complexity :- O(1)
+	
  */
+
+
+
