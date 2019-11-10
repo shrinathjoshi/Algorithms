@@ -8,6 +8,7 @@ These are the following Topis
 2. [Merge Sort](https://github.com/shrinathjoshi/Algorithms/blob/master/Sorting/Algorithms/Sorting/MergeSort.java)
 3. [Insertion Sort](https://github.com/shrinathjoshi/Algorithms/blob/master/Sorting/Algorithms/Sorting/InsertionSort.java)
 4. [Heap Sort](https://github.com/shrinathjoshi/Algorithms/blob/master/Sorting/Algorithms/Sorting/HeapSort.java)
+5. [Bucket Sort](https://github.com/shrinathjoshi/Algorithms/blob/master/Sorting/Algorithms/Sorting/BucketSort.java)
 
 ### Searching ###
 1. [Linear search](https://github.com/shrinathjoshi/Algorithms/blob/master/Searching/Algorithm/Searching/LinearSearch.java)
