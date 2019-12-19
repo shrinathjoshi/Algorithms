@@ -21,6 +21,11 @@ These are the following Topis
 3. Interpolation Search
 
 ### Divide and Conqur ###
+1. Knapsack problem
+2. Huffman's Encoding
+3. Job Scheduling with deadline
+4. Prim's Algorithm
+5. Kruskal's Algorithm
 ### Greedy Algorithm ###
 ### Dynamic Programming ###
 ### Backtracking ###
