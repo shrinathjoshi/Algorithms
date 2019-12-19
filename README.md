@@ -8,10 +8,24 @@ These are the following Topis
 2. [Merge Sort](https://github.com/shrinathjoshi/Algorithms/blob/master/Sorting/Algorithms/Sorting/MergeSort.java)
 3. [Insertion Sort](https://github.com/shrinathjoshi/Algorithms/blob/master/Sorting/Algorithms/Sorting/InsertionSort.java)
 4. [Heap Sort](https://github.com/shrinathjoshi/Algorithms/blob/master/Sorting/Algorithms/Sorting/HeapSort.java)
+5. [Bucket Sort](https://github.com/shrinathjoshi/Algorithms/blob/master/Sorting/Algorithms/Sorting/BucketSort.java)
+6. Radix Sort
+7. Tim Sort
+8. Counting Sort
+9. Selection Sort
+
 
 ### Searching ###
 1. [Linear search](https://github.com/shrinathjoshi/Algorithms/blob/master/Searching/Algorithm/Searching/LinearSearch.java)
+2. Binary Search
+3. Interpolation Search
+
 ### Divide and Conqur ###
+1. Knapsack problem
+2. Huffman's Encoding
+3. Job Scheduling with deadline
+4. Prim's Algorithm
+5. Kruskal's Algorithm
 ### Greedy Algorithm ###
 ### Dynamic Programming ###
 ### Backtracking ###
