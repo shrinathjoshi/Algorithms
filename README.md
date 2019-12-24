@@ -17,13 +17,13 @@ These are the following Topis
 
 ### Searching ###
 1. [Linear search](https://github.com/shrinathjoshi/Algorithms/blob/master/Searching/Algorithm/Searching/LinearSearch.java)
-2. Binary Search
+2. [Binary Search](https://github.com/shrinathjoshi/Algorithms/blob/master/Searching/Algorithm/Searching/BinarySearch.java)
 3. Interpolation Search
 
 ### Divide and Conqur ###
 
 ### Greedy Algorithm ###
-1. Knapsack problem
+1. [Knapsack problem](https://github.com/shrinathjoshi/Algorithms/blob/master/Greedy/GreedyKnapsack.java)
 2. Huffman's Encoding
 3. Job Scheduling with deadline
 4. Prim's Algorithm
