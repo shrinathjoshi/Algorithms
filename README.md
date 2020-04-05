@@ -29,7 +29,8 @@ These are the following Topis
 4. Prim's Algorithm
 5. Kruskal's Algorithm
 ### Dynamic Programming ###
-1. [Maximum Subarray](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/MaxSubarray.java)
+1. [Fibonacci Number](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/Fibonacci.java)
+2. [Maximum Subarray](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/MaxSubarray.java)
 
 ### Backtracking ###
 ### String Matching Algorithms ###
