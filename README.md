@@ -31,6 +31,7 @@ These are the following Topis
 ### Dynamic Programming ###
 1. [Fibonacci Number](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/Fibonacci.java)
 2. [Maximum Subarray](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/MaxSubarray.java)
+3. [Longest Common Subsequence](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/LongestCommonSubsequence.java)
 
 ### Backtracking ###
 ### String Matching Algorithms ###
