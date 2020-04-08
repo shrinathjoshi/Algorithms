@@ -22,7 +22,6 @@ public class Graph {
 		validateVertex(v);
 		E++;
 		adj[u].add(v);
-		adj[v].add(u);
 		
 	}
 	
