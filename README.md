@@ -13,6 +13,7 @@ These are the following Topis
 7. Tim Sort
 8. Counting Sort
 9. Selection Sort
+10. [Topological Sort](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/TopologicalSorting.java)
 
 
 ### Searching ###
@@ -22,9 +23,14 @@ These are the following Topis
 ### Divide and Conqur ###
 1. [Maximum Subarray](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/MaxSubarray.java)
 
+### Graph Algorithm ###
+1. [Depth First Search](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/DepthFirstSearch.java)
+2. [Breadth First Search](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/BreadthFirstSearch.java)
+3. [Topological Sort](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/TopologicalSorting.java)
+
 ### Greedy Algorithm ###
 1. [Knapsack problem](https://github.com/shrinathjoshi/Algorithms/blob/master/Greedy/GreedyKnapsack.java)
-2. Huffman's Encoding
+2. [Huffman's Encoding](https://github.com/shrinathjoshi/Algorithms/blob/master/Greedy/HuffmanCoding.java)
 3. Job Scheduling with deadline
 4. Prim's Algorithm
 5. Kruskal's Algorithm
