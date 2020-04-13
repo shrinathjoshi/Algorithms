@@ -27,13 +27,15 @@ These are the following Topis
 1. [Depth First Search](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/DepthFirstSearch.java)
 2. [Breadth First Search](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/BreadthFirstSearch.java)
 3. [Topological Sort](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/TopologicalSorting.java)
+4. [Prim's Algorithm](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/Prims.java)
+5. [Kruskal's Algorithm](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/Kruskal.java)
 
 ### Greedy Algorithm ###
 1. [Knapsack problem](https://github.com/shrinathjoshi/Algorithms/blob/master/Greedy/GreedyKnapsack.java)
 2. [Huffman's Encoding](https://github.com/shrinathjoshi/Algorithms/blob/master/Greedy/HuffmanCoding.java)
 3. Job Scheduling with deadline
-4. Prim's Algorithm
-5. Kruskal's Algorithm
+4. [Prim's Algorithm](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/Prims.java)
+5. [Kruskal's Algorithm](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/Kruskal.java)
 ### Dynamic Programming ###
 1. [Fibonacci Number](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/Fibonacci.java)
 2. [Maximum Subarray](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/MaxSubarray.java)
