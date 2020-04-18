@@ -40,6 +40,7 @@ These are the following Topis
 1. [Fibonacci Number](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/Fibonacci.java)
 2. [Maximum Subarray](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/MaxSubarray.java)
 3. [Longest Common Subsequence](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/LongestCommonSubsequence.java)
+4. [0/1 KnapSack - Using Strategy Design Pattern](https://github.com/shrinathjoshi/Algorithms/tree/master/Dynamic%20Programming/com/interview/dynamicProgramming/Knapsack)
 
 ### Backtracking ###
 ### String Matching Algorithms ###
