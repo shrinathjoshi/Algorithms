@@ -41,6 +41,7 @@ These are the following Topis
 2. [Maximum Subarray](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/MaxSubarray.java)
 3. [Longest Common Subsequence](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/LongestCommonSubsequence.java)
 4. [0/1 KnapSack - Using Strategy Design Pattern](https://github.com/shrinathjoshi/Algorithms/tree/master/Dynamic%20Programming/com/interview/dynamicProgramming/Knapsack)
+5. [Sum of Subset ](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/SubsetSum.java)
 
 ### Backtracking ###
 ### String Matching Algorithms ###
