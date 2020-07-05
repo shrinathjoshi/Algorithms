@@ -51,7 +51,7 @@ These are the following Topis
 
 ### Mathematical Algorithms ###
 1. [Prime Number - Seive of eratosthenes](https://github.com/shrinathjoshi/Algorithms/blob/master/Mathematics/PrimeNumber.java)
-	[Project Euler #7: 10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem)-[Solution in Java](https://github.com/shrinathjoshi/Algorithms/blob/master/Mathematics/PrimeNumber10001.java) - Timeout at Testcase 4 and Testcase 5
+<br>[Project Euler #7: 10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem)-[Solution in Java](https://github.com/shrinathjoshi/Algorithms/blob/master/Mathematics/PrimeNumber10001.java) - Timeout at Testcase 4 and Testcase 5
 
 ### NP Problems ###
 
