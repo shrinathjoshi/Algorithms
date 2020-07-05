@@ -36,6 +36,8 @@ These are the following Topis
 3. Job Scheduling with deadline
 4. [Prim's Algorithm](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/Prims.java)
 5. [Kruskal's Algorithm](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/Kruskal.java)
+
+### Recursion and Backtracking ###
 ### Dynamic Programming ###
 1. [Fibonacci Number](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/Fibonacci.java)
 2. [Maximum Subarray](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/MaxSubarray.java)
@@ -43,8 +45,12 @@ These are the following Topis
 4. [0/1 KnapSack - Using Strategy Design Pattern](https://github.com/shrinathjoshi/Algorithms/tree/master/Dynamic%20Programming/com/interview/dynamicProgramming/Knapsack)
 5. [Sum of Subset ](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/SubsetSum.java)
 
-### Backtracking ###
+
 ### String Matching Algorithms ###
+1. [Kabin Karp Algorithm]()
+
+### Mathematical Algorithms ###
+1. [Seive of eratosthenes]()
 ### NP Problems ###
 
 
