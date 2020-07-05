@@ -50,7 +50,7 @@ These are the following Topis
 1. [Kabin Karp Algorithm]()
 
 ### Mathematical Algorithms ###
-1. [Seive of eratosthenes]()
+1. [Seive of eratosthenes](https://github.com/shrinathjoshi/Algorithms/blob/master/Mathematics/PrimeNumber.java)
 ### NP Problems ###
 
 
