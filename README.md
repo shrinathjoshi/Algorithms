@@ -38,6 +38,8 @@ These are the following Topis
 5. [Kruskal's Algorithm](https://github.com/shrinathjoshi/Algorithms/blob/master/Graphs/Kruskal.java)
 
 ### Recursion and Backtracking ###
+1. [Subset]():- [Java](https://github.com/shrinathjoshi/Algorithms/blob/master/Recursion%20and%20Backtracking/Subsets.java)
+2. [Subset 2]() :- [Java](https://github.com/shrinathjoshi/Algorithms/blob/master/Recursion%20and%20Backtracking/SubsetTwo.java)
 ### Dynamic Programming ###
 1. [Fibonacci Number](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/Fibonacci.java)
 2. [Maximum Subarray](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/MaxSubarray.java)
