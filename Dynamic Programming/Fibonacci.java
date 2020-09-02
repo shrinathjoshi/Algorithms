@@ -4,7 +4,7 @@
 */
 
 // PROBLEM STATEMENT
-// Finding the Nth  Term of the Fibonacci Series
+// Finding the Nth  Term of the FibonacciNumber Series
 
 // Approach 1
 // Using Dynamic Programming using the recurrence Releation
@@ -14,7 +14,7 @@
 
 // Approach 2 
 // Using Dynamic Programming using the recurrence Releation with MEMORIZATION
-// Storing Fibonacci value of every subproblem 
+// Storing FibonacciNumber value of every subproblem 
 // Time Complexity :- O(n)
 // Space complexity :- O(n)
 
@@ -33,7 +33,7 @@ public class Fibonacci{
 	{
 		Scanner sc=new Scanner(System.in);
 
-		System.out.println("Enter the nth term of the Fibonacci series");
+		System.out.println("Enter the nth term of the FibonacciNumber series");
 		int number=sc.nextInt();
 
 
@@ -104,8 +104,8 @@ public class Fibonacci{
 
 /*
 
-E:\Data Structure and algorithm\Dynamic Programming>java Fibonacci
-Enter the nth term of the Fibonacci series
+E:\Data Structure and algorithm\Dynamic Programming>java FibonacciNumber
+Enter the nth term of the FibonacciNumber series
 40
 Execution Time using Recursive Approach : 390 milli sec
 Result using Recursive Approach : 102334155
