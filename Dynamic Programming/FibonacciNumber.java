@@ -1,12 +1,11 @@
-package com.interview.dynamicProgramming.Knapsack;
 
-public class Fibonacci {
+public class FibonacciNumber {
 
 	public static void main(String[] args) {
 		int N = 10;
-		System.out.println(Fibonacci.getFibonacciUsingRecursion(N));
-		System.out.println(Fibonacci.getFibonacciUsingRecursionAndMemoization(N));
-		System.out.println(Fibonacci.getFibonacciUsingTabulation(N));
+		System.out.println(FibonacciNumber.getFibonacciUsingRecursion(N));
+		System.out.println(FibonacciNumber.getFibonacciUsingRecursionAndMemoization(N));
+		System.out.println(FibonacciNumber.getFibonacciUsingTabulation(N));
 	}
 
 	private static int getFibonacciUsingTabulation(int n) {
