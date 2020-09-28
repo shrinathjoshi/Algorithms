@@ -65,11 +65,11 @@ public class MaxSubarray {
 	private int maximumSubArray(int[] nums, int left, int right) {
 		if(right<left) return 0;
 		
-		if(left == right) return Math.max(nums[left], 0);
+		if(left == right) return nums[left];
 		
-		int mid= (left+right)/2;
+		int mid= left + (right-left)/2;
 		
-		int maxToLeft =0;
+		int maxToLeft =Integer.MIN_VALUE;
 		int sum=0;
 		for(int i=mid;i>=left;i--)
 		{
@@ -77,7 +77,7 @@ public class MaxSubarray {
 			maxToLeft=Math.max(maxToLeft, sum);
 		}
 		
-		int maxToRight =0;
+		int maxToRight =Integer.MIN_VALUE;
 		sum=0;
 		for(int i=mid+1;i<=right;i++)
 		{
