@@ -22,13 +22,15 @@ public class RodCutting {
 	}
 
 	private static int maxProfitBottomUp(int L, int[] p, int[] dp) {
-
+		int[] cuts = new int[L + 1];
 		for (int i = 1; i <= L; i++) {
 			dp[i] = Integer.MIN_VALUE;
-
+			int cut = -1;
 			for (int j = 1; j <= i; j++) {
 				dp[i] = Math.max(dp[i], dp[i - 1 - 1] + p[i]);
+				cut = i + 1;
 			}
+			cuts[i] = cut;
 		}
 
 		return dp[L];
