@@ -33,7 +33,19 @@ public class RodCutting {
 			cuts[i] = cut;
 		}
 
+		reConstructSolution(cuts, dp, L);
 		return dp[L];
+	}
+
+	private static void reConstructSolution(int[] cuts, int[] dp, int l) {
+		int cut = cuts[l];
+
+		while (cut != 0) {
+			System.out.println((cut) + " ");
+			cut = cuts[l - cut];
+		}
+
+		System.out.println();
 	}
 
 	private static int maxProfitUsingMemoization(int L, int[] p) {
