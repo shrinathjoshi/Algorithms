@@ -1,5 +1,10 @@
 package com.interview.dynamicProgramming.mtaodp;
 
+/**
+ * @author Shrinath Joshi
+ *
+ *         https://leetcode.com/problems/house-robber/
+ */
 public class RobbingHouse implements DynamicProgramming {
 
 	public static void main(String[] args) {
