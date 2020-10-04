@@ -12,6 +12,10 @@ public class RodCutting {
 	}
 
 	private static int maxProfitUsingBottomUp(int i, int[] p) {
+
+		// Time Complexity :- O(n)
+		// Space Complexity :- O(n)
+
 		int dp[] = new int[p.length + 1];
 		Arrays.fill(dp, -1);
 		return RodCutting.maxProfitBottomUp(6, p, dp);
@@ -37,6 +41,9 @@ public class RodCutting {
 	}
 
 	private static int maxProfit(int rodLength, int[] p) {
+
+		// Time Complexity :- O(2^N)
+		// Space Complexity :- O(1)
 
 		if (rodLength < 0)
 			return 0;
