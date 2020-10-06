@@ -1,4 +1,4 @@
-package com.interview.dynamicProgramming.mtaodp;
+package com.interview.dynamicProgramming.mtaodp.TwoDimensionalDynamicProgramming;
 
 import java.util.Arrays;
 
