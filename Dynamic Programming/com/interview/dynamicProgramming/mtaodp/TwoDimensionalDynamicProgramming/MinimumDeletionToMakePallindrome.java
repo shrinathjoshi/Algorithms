@@ -17,6 +17,9 @@ public class MinimumDeletionToMakePallindrome {
 
 	public static int minDeletionPalindrome(int startIndex, int endIndex, String s) {
 
+		// Time Complexity :- O(2^N)
+		// Space Complexity :- O(1)
+
 		if (startIndex >= endIndex)
 			return 0;
 
@@ -71,6 +74,10 @@ public class MinimumDeletionToMakePallindrome {
 	}
 
 	private static int minDeletionBottomUp(int startIndex, int endIndex, String s, int[][] cache) {
+
+		// Time Complexity :- O(N2)
+		// Space Complexity :- O(N2)
+
 		int n = s.length();
 		for (int l = 1; l <= n; l++) {
 			for (int i = 0; i <= n - l; i++) {
