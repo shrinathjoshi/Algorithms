@@ -51,6 +51,7 @@ These are the following Topis
 
 ### String Matching Algorithms ###
 1. [Kabin Karp Algorithm]()
+1. [KMP (Knuth Morris Pratt) Algorithm]()
 
 ### Mathematical Algorithms ###
 1. [Prime Number - Seive of eratosthenes](https://github.com/shrinathjoshi/Algorithms/blob/master/Mathematics/PrimeNumber.java)
