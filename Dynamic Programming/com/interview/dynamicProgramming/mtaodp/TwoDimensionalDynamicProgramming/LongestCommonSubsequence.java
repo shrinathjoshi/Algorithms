@@ -25,7 +25,38 @@ public class LongestCommonSubsequence {
 		System.out.println(LongestCommonSubsequence.longestCommonSubsequenceRecursion(A, B));
 		System.out.println(LongestCommonSubsequence.longestCommonSubsequenceMemoization(A, B));
 		System.out.println(LongestCommonSubsequence.longestCommonSubsequenceBottomUp(A, B));
+		System.out.println(LongestCommonSubsequence.longestCommonSubsequenceBottomUpEfficient(A, B));
 
+	}
+
+	private static int longestCommonSubsequenceBottomUpEfficient(String a, String b) {
+
+		int cache[] = new int[b.length() + 1];
+
+		return longestCommonSubsequenceBottomUpEfficient(a, b, cache);
+	}
+
+	private static int longestCommonSubsequenceBottomUpEfficient(String a, String b, int[] cache) {
+
+		int previous = 0;
+		for (int i = 0; i < a.length(); i++) {
+			previous = 0;
+			for (int j = 0; j < b.length(); j++) {
+				int temp = cache[j];
+
+				if (i == 0 || j == 0)
+					continue;
+
+				if (a.charAt(i) == b.charAt(j))
+					cache[j] = previous + 1;
+				else
+					cache[j] = Math.max(cache[j - 1], cache[j]);
+
+				previous = temp;
+			}
+		}
+
+		return cache[b.length() - 1];
 	}
 
 	public static int longestCommonSubsequenceRecursion(String s1, String s2) {
