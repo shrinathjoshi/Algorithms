@@ -53,11 +53,11 @@ These are some of the common Algorithms
 1. Eulerian paths 
 2. Hamiltonian paths 
 3. De Bruijn sequences 
-4. Knight’s tours 
+4. Knightâ€™s tours 
 5. Bipartite Graph
 
 #### Flows and cuts 
-1 Ford–Fulkerson algorithm 
+1 Fordâ€“Fulkerson algorithm 
 2 Disjoint paths 
 
 ## Greedy Algorithm ##
@@ -79,7 +79,7 @@ These are some of the common Algorithms
 
 #### Longest Common Subsequence
 1. [Longest Common Subsequence](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/LongestCommonSubsequence.java)
-2. [Edit Distance ] (https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/EditDistance.java)
+2. [Edit Distance](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/EditDistance.java)
 
 #### Unbounded Knapsack
 
@@ -87,7 +87,7 @@ These are some of the common Algorithms
 
 #### Others
 1. [Fibonacci Number](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/Fibonacci.java)
-2. [Maximum Subarray](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/MaxSubarray.java)
+2. [Maximum Subarray- Kadane's Algorithm ](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/MaxSubarray.java)
 5. [Sum of Subset ](https://github.com/shrinathjoshi/Algorithms/blob/master/Dynamic%20Programming/SubsetSum.java)
 
 
