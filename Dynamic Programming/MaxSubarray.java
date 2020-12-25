@@ -38,8 +38,7 @@ public class MaxSubarray {
 	        
 	        int max=Integer.MIN_VALUE;
 	        for(int i =0;i<n;i++)
-	            if(max<dp[i])
-	                max=dp[i];
+				max = Integer.max(max,dp[i]);
 	        
 	        return max;
 	        
